@@ -9,6 +9,8 @@ This project explores how far income goes in different parts of the world by com
 
 Using international data, we transformed multiple economic indicators into an interactive Tableau story designed to make global affordability differences easier to understand and compare.
 
+![The Two Recoveries Dashboard](dashboard-overviewtableau.png)
+
 ## Tools & Skills
 
 - Tableau
